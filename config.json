@@ -1,0 +1,10 @@
+{
+  "project_name": "i3 Config Parser",
+  "description": "A Python project to convert i3 window manager configuration files to JSON format and back. IS NOT FINISHED, STILL SOME PROBLEMS",
+  "installation": "# Clone the repository\n\ngit clone https://github.com/Dynlas/i3-config-parser.git\n\n# Change directory\n\ncd i3-config-parser\n\n# Install dependencies\n\npip install -r requirements.txt",
+  "usage": "# Convert i3 config to JSON\n\npython tojson.py config\n\n# Convert JSON to i3 config\n\npython toi3.py output.json",
+  "license_info": "This project is licensed under the MIT License - see the LICENSE file for details.",
+  "contributors": "- [Dynlas](https://github.com/Dynlas)\n",
+  "acknowledgments": "Thank you to everyone using it, let me know any problems."
+}
+
