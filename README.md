@@ -1,7 +1,7 @@
 # i3 Config Parser
 
 ## Description
-A Python project to convert i3 window manager configuration files to JSON format and back. IS NOT FINISHED, STILL SOME PROBLEMS
+A Python project to convert i3 window manager configuration files to JSON format and back. IS NOT FINISHED, STILL SOME PROBLEMS.
 
 ## Installation
 # Clone the repository
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ## Usage
 # Convert i3 config to JSON
 
-python tojson.py config
+python tojson.py config -- This config is your i3wm confing, you can change the output path in the code.
 
 # Convert JSON to i3 config
 
